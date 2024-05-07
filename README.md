@@ -65,9 +65,9 @@ http://localhost:5061
 
 5. Una vez dentro de Kibana, seleccionar la opción de "Machine Learning" y en el apartado de "Data Visualizer"/"Visualize data from a file" seleccionar el botón "Select file". Seleccionar "Select or drag and drop a file" y añade el fichero csv que hemos utilizado para este proyecto (turbinas.csv)
 
-6. Selecciona el botón "Import", incluye como Index name "turbinas" y vuelve a seleccionar "Import"
+6. Seleccionar el botón "Import", incluye como Index name "turbinas" y vuelve a seleccionar "Import"
 
-7. Crear el botón "Create dashboard", seleccionar la opción "Add panel"/"Lens" y crear las distintas agregaciones
+7. Clickar el botón "Create dashboard", seleccionar la opción "Add panel"/"Lens" y crear las distintas agregaciones
 
 ## Posibles vías de mejora 📈
 - Mejorar la calidad y variedad de los datos
